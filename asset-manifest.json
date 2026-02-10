@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/internship-monitoring-system-frontend/static/css/main.e7375e22.css",
-    "main.js": "/internship-monitoring-system-frontend/static/js/main.52648a46.js",
+    "main.js": "/internship-monitoring-system-frontend/static/js/main.e79fc8a6.js",
     "index.html": "/internship-monitoring-system-frontend/index.html",
     "main.e7375e22.css.map": "/internship-monitoring-system-frontend/static/css/main.e7375e22.css.map",
-    "main.52648a46.js.map": "/internship-monitoring-system-frontend/static/js/main.52648a46.js.map"
+    "main.e79fc8a6.js.map": "/internship-monitoring-system-frontend/static/js/main.e79fc8a6.js.map"
   },
   "entrypoints": [
     "static/css/main.e7375e22.css",
-    "static/js/main.52648a46.js"
+    "static/js/main.e79fc8a6.js"
   ]
 }
